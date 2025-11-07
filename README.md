@@ -7,7 +7,7 @@ A Retrieval-Augmented Generation (RAG) application built with FastAPI and instru
 | Service | URL |
 |---------|-----|
 | **API Server** | http://15.206.211.26:8000/docs |
-| **Grafana Monitoring** | http://13.126.98.205:3000/?orgId=1&from=now-6h&to=now&timezone=browser |
+| **Grafana Monitoring** | http://13.126.98.205:3000/d/fc8c2518-fda9-43ac-8049-457b901628f3/rag-plgj-observability?orgId=1&from=now-1h&to=now&timezone=browser&refresh=auto |
 
 **Grafana Credentials:** admin / admin
 
